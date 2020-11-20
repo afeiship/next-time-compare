@@ -20,6 +20,9 @@ nx.timeCompare('09:42:13', '9:41:13');    // 1
 nx.timeCompare('09:40:13', '9:41:13');    // -1
 ```
 
+## resources
+- https://stackoverflow.com/questions/6212305/how-can-i-compare-two-time-strings-in-the-format-hhmmss
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-time-compare/blob/master/LICENSE.txt).
 
