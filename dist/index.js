@@ -3,7 +3,7 @@
  * description: Time compare for next.
  * homepage: https://github.com/afeiship/next-time-compare
  * version: 1.0.0
- * date: 2020-11-20 10:49:57
+ * date: 2020-11-20 10:51:26
  * license: MIT
  */
 
