@@ -13,7 +13,7 @@ npm install -S @jswork/next-time-compare
 
 ## usage
 ```js
-import '@feizheng/next-time-compare';
+import '@jswork/next-time-compare';
 
 nx.timeCompare('09:41:13', '9:41:13');    // 0
 nx.timeCompare('09:42:13', '9:41:13');    // 1
